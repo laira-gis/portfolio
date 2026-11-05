@@ -9,6 +9,7 @@ Welcome to my GIS portfolio! I am an Environmental Geology student at Florida Gu
 ### Microtopographic Terrain-Based Analysis of Relative Stormwater Infiltration Potential Using 1 m LiDAR: FGCU Food Forest
 
 ![FGCU Food Forest Location Map](site_map_forest.png)
+*Map data ©2026 Google.*
 
 ### Question
 Do the walking paths within the FGCU Food Forest have a higher relative infiltration capacity than the raised beds the plants are grown on?
@@ -29,6 +30,7 @@ Do the walking paths within the FGCU Food Forest have a higher relative infiltra
 The FGCU Food Forest was established in 2013 using permaculture design principles. I became interested in this site after observing that the food forest sits at a higher elevation than its immediate surroundings and is bounded by an extensive drainage system and retention basins.
 
 ![FGCU Food Forest Drainage Context](drain_example.jpg)
+Image showing example of the French drainage systems that surround the site.
 
 Because of this elevated setting, the food forest has a highly limited upstream topographic catchment area, meaning standard watershed delineation tools fail. I was interested to know if the walking paths within the food forest are operating as artificial swales, and if the raised beds act as artificial berms. To analyze this landscape, I utilized the Topographic Wetness Index (TWI), which is a steady-state hydrological index that quantifies how topographically flat areas with large upslope contributing zones tend to accumulate water, whereas steep areas drain.
 
@@ -42,9 +44,10 @@ Slope + hillshade map.
 Next, I calculated the TWI by combining the slope derivative with a SAGA Flow Accumulation raster. Upon reviewing the output, I observed that the adjacent parking lot, building roof, and water body with misleadingly high wetness indices due to their flat slopes. Because these surfaces are functionally impervious and block infiltration regardless of slope, I created a rough spatial mask to visually isolate these features from the final terrain index analysis.
 
 ![Baseline Topographic Wetness Index Map](twi_map_1.png)
+Initial Topographic Wetness Index map.
 
 ![Topographic Wetness Index Masked for Impervious Surfaces](twi_map_2.png)
-
+Topographic Wetness Index map after masking impervious surfaces. 
 
 
 ## Field Validation & Infrastructure Integration
