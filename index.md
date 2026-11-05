@@ -37,7 +37,7 @@ To evaluate the TWI for the FGCU Food Forest, I downloaded a 1-meter USGS 3DEP b
 Using this clipped DEM, I generated a slope map using the SAGA Slope, Aspect, Curvature tool to calculate the terrain gradients in radians.
  
 ![Site Terrain Slope and Hillshade Map](slope_map.png)
-Slop + hillshade map.
+Slope + hillshade map.
 
 Next, I calculated the TWI by combining the slope derivative with a SAGA Flow Accumulation raster. Upon reviewing the output, I observed that the adjacent parking lot, building roof, and water body with misleadingly high wetness indices due to their flat slopes. Because these surfaces are functionally impervious and block infiltration regardless of slope, I created a rough spatial mask to visually isolate these features from the final terrain index analysis.
 
