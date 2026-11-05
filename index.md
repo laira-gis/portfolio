@@ -50,10 +50,10 @@ Hydrological workflows often require "filling sinks" to ensure continuous flow a
 
 ### Field Validation & Infrastructure Integration
 
-**Ground-truthing** After a storm, I conducted field validation with my map results to verify that high-value TWI zones accurately correlated with observable surface wetness and soil saturation. I noticed that the soil had a spongier texture, stronger smell, and visibly higher saturation in many of the areas the TWI map identified as having high relative topographic wetness.
+**Ground-truthing** After a storm, I conducted field validation with my map results to verify that high-value TWI zones accurately correlated with observable surface wetness and soil saturation. I noticed that the soil had a spongier texture, stronger smell, and visibly higher saturation in many of the areas the TWI map identified as having high relative topographic wetness. 
 
-**Results**
-The analysis identified zones of high wetness and low wetness within the food forest, which might be attributed to the site's permaculture design. However, a map of the walking paths and integration of soil data would be needed to draw any further conclusions. 
+**Results & Challenges**
+While the TWI tool did pick up areas of higher and lower wetness within the food forest, due to factors such as subsurface drainage, soil compaction, no sink filling and site-tool scale mismatch, this project can only serve as a lesson for me in the limitations of GIS in some terrains. If I were to do this project again, I would choose a site without an extensive drainage system, and an analysis tool better suited for small scale processes. 
 
 **Application**  
 This type of limited, terrain-only analysis serves as a quick visual tool to understand how small site features, like footpaths or raised beds, might influence localized surface drainage and wetness patterns.
