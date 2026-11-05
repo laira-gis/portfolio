@@ -45,6 +45,8 @@ Initial Topographic Wetness Index map.
 ![Topographic Wetness Index Masked for Impervious Surfaces](twi_map_2.png)
 Topographic Wetness Index map after masking impervious surfaces. 
 
+### Methodology Note (No Sink Filling): 
+Hydrological workflows often require "filling sinks" to ensure continuous flow accumulation. However, because the FGCU Food Forest is situated in flat Florida karst terrain with intentional microtopography (raised beds and paths), filling sinks artificially flattened the DEM and erased the features I needed to analyze. Therefore, I bypassed the sink-filling step to preserve the microtopographic variations. 
 
 ### Field Validation & Infrastructure Integration
 
