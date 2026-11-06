@@ -2,25 +2,27 @@
 
 ## About
 
-Welcome to my GIS portfolio! I am an Environmental Geology student at Florida Gulf Coast University exploring the intersection of water systems and landforms. My independent projects focus on hydrologic analysis of water resources and water-related hazards. 
+Welcome to my GIS portfolio! I am a third-year Environmental Geology student at Florida Gulf Coast University. This portfolio presents independent GIS projects with interests in  water systems, terrain analysis, and environmental risk.
 
 ## Featured Projects
 
-### Microtopographic Terrain-Based Analysis of Relative Topographic Wetness Using 1 m LiDAR: FGCU Food Forest
-**Tools** QGIS, SAGA/GRASS 
+### Terrain-Based Wetness Analysis Using 1 m LiDAR: FGCU Food Forest
 
 ![FGCU Food Forest Location Map](site_map_forest.png)
-*Map data ©2026 Google.*
+Location map of the FGCU Food Forest. Basemap: Google.
+
+### Tools
+QGIS; SAGA/GRASS.
 
 ### Question
-Do the walking paths within the FGCU Food Forest show higher relative topographic wetness than the raised beds the plants are grown on?
+Within the FGCU Food Forest, do walking paths have higher relative topographic wetness than raised beds, based on TWI?
 
 ### Elevation Data
-USGS 3D Elevation Program 1-Meter DEM.
+USGS 3D Elevation Program (3DEP) 1 m bare-earth DEM.
 
 ### Soil Data & Limitations
-SSURGO Hydrologic Soil Group data was downloaded from the NRCS Web Soil Survey database and found to be uniform throughout the site. The soil is classified as Hydrologic Soil Group A/B, meaning it behaves as group A (high infiltration and low runoff) where undisturbed and group B (moderate infiltration and runoff) where altered. 
-Due to limitations in data access, this project was constrained to a terrain-based analysis at this time. A more extensive evaluation of infiltration potential would require integrating soil data such as water table depth, bulk density, and hydraulic conductivity.
+SSURGO data mapped the site as a single Hydrologic Soil Group unit at the map scale. The soil is classified as Hydrologic Soil Group A/B, meaning it behaves as group A (high infiltration and low runoff) where undisturbed and group B (moderate infiltration and runoff) where altered. 
+Due to limitations in data access, this project was constrained to a terrain-based analysis at this time. A more extensive evaluation of infiltration potential would require integrating soil data such as hydrologic properties, bulk density, and hydraulic conductivity.
 
 ### Site Design & Procedure
 The FGCU Food Forest was established in 2013 using permaculture design principles. I became interested in this site after observing that the food forest sits at a higher elevation than its immediate surroundings and is bounded by an extensive drainage system and retention basins.
@@ -50,13 +52,13 @@ Hydrological workflows often require "filling sinks" to ensure continuous flow a
 
 ### Field Validation & Infrastructure Integration
 
-**Ground-truthing** After a storm, I conducted field validation with my map results to verify that high-value TWI zones accurately correlated with observable surface wetness and soil saturation. I noticed that the soil had a spongier texture, stronger smell, and visibly higher saturation in many of the areas the TWI map identified as having high relative topographic wetness. 
+**Ground-truthing** After a storm, I conducted field validation with my map result to check whether areas with high TWI values corresponded with field evidence of wetness.. I noticed that the soil had a spongier texture, stronger smell, and visibly higher saturation in many of the areas the TWI map identified as areas with high TWI values. 
 
 **Results & Challenges**
-While the TWI tool did pick up areas of higher and lower wetness within the food forest, due to factors such as subsurface drainage, soil compaction, no sink filling and site-tool scale mismatch, this project can only serve as a lesson for me in the limitations of GIS in some terrains. If I were to do this project again, I would choose a site without an extensive drainage system, and an analysis tool better suited for small scale processes. 
+TWI values corresponded with field evidence of wetness in some areas, but the results did not clearly show that paths were wetter than raised beds because subsurface drainage, soil compaction, and scale differences likely affected the pattern. These factors limit interpretation of the results. 
 
 **Application**  
-This type of limited, terrain-only analysis serves as a quick visual tool to understand how small site features, like footpaths or raised beds, might influence localized surface drainage and wetness patterns.
+This type of limited, terrain-only analysis serves as a preliminary visual tool to understand how small site features, like footpaths or raised beds, might influence localized surface drainage and wetness patterns. 
 
 ### Future Projects
 My next project will explore the automation of repetitive geospatial tasks using Python. This work will focus on writing scripts to streamline data processing workflows and manage vector or raster datasets more efficiently.
