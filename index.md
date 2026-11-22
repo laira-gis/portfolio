@@ -9,8 +9,8 @@ Welcome to my GIS portfolio! I am an Environmental Geology student at Florida Gu
 ### Terrain-Based Wetness Analysis Using 1 m LiDAR: FGCU Food Forest
 Published: 11/5/2026
 
-![FGCU Food Forest Location Map](site_map_forest.png)
-Location map of the FGCU Food Forest. Basemap: Google.
+<img src="site_map_forest.png" alt="FGCU Food Forest Location Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<p style="text-align: center;"><em>Location map of the FGCU Food Forest. Basemap: Google.</em></p>
 
 ### Tools
 QGIS; SAGA/GRASS.
@@ -28,8 +28,8 @@ For this phase of the project, I focused strictly on terrain-based analysis. A m
 ### Site Design & Procedure
 The FGCU Food Forest was established in 2013 using permaculture design principles. I became interested in this site after observing that the food forest sits at a higher elevation than its immediate surroundings and is bounded by a subsurface  drainage system and retention basins.
 
-![FGCU Food Forest Drainage Context](drain_example.jpg)
-Image showing an example of the French drainage systems surrounding the site.
+<img src="drain_example.jpg" alt="FGCU Food Forest Drainage Context" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<p style="text-align: center;"><em>Image showing an example of the French drainage systems surrounding the site.</em></p>
 
 Because of this elevated setting, the food forest has a highly limited upstream topographic catchment area, meaning standard watershed delineation tools fail. To analyze this landscape, I utilized the Topographic Wetness Index (TWI). TWI is a steady-state hydrological index that quantifies how topographically flat areas with large upslope contributing zones tend to accumulate water, whereas steep areas drain.
 
@@ -37,19 +37,19 @@ To evaluate the TWI for the FGCU Food Forest, I downloaded a 1-meter USGS 3DEP b
 
 Using this clipped DEM, I generated a slope map using the SAGA Slope, Aspect, Curvature tool to calculate the terrain gradients in radians.
  
-![Site Terrain Slope and Hillshade Map](slope_map.png)
-Slope + hillshade map.
+<img src="slope_map.png" alt="Site Terrain Slope and Hillshade Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<p style="text-align: center;"><em>Slope + hillshade map.</em></p>
 
 Next, I calculated the TWI by combining the slope derivative with a SAGA Flow Accumulation raster. I noticed the adjacent parking lot, building roof, and water body had high wetness indices due to their flat slopes. Because these surfaces are impervious and block infiltration regardless of slope, I created a spatial mask to isolate these features.
 
 ### Methodology Note (No Sink Filling):
 Hydrological workflows often require "filling sinks" to ensure continuous flow accumulation. However, because the FGCU Food Forest is situated in flat Florida karst terrain with intentional microtopography (raised beds and paths), filling sinks flattened the DEM and erased the features I needed to analyze. Therefore, I bypassed the sink-filling step to preserve the microtopographic variations.
 
-![Baseline Topographic Wetness Index Map](twi_map_1.png)
-Initial Topographic Wetness Index map.
+<img src="twi_map_1.png" alt="Baseline Topographic Wetness Index Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<p style="text-align: center;"><em>Initial Topographic Wetness Index map.</em></p>
 
-![Topographic Wetness Index Masked for Impervious Surfaces](twi_map_2.png)
-Topographic Wetness Index map after masking impervious surfaces. 
+<img src="twi_map_2.png" alt="Topographic Wetness Index Masked for Impervious Surfaces" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<p style="text-align: center;"><em>Topographic Wetness Index map after masking impervious surfaces.</em></p>
 
 ### Field Validation & Infrastructure Integration
 
@@ -62,7 +62,7 @@ While the TWI map successfully identified generally saturated zones, the results
 This type of limited, terrain-only analysis serves as a preliminary visual tool to understand how small site features, like footpaths or raised beds, might influence surface drainage and wetness patterns. 
 
 ### Future Projects
-My next project will focus on extracting and digitizing core locations from historical marine maps of the Santa Monica Basin turbidites. Following projects will explore the automation of repetitive geospatial tasks using Python. 
+My next project will focus on extracting and digitizing core locations from historical marine maps of the Santa Monica Basin turbidites. Following projects will explore the automation of repetitive geospatial tasks using Python.
 
 ## Portfolio Note
 
