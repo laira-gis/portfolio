@@ -10,6 +10,10 @@ Welcome to my GIS portfolio! I am an Environmental Geology student at Florida Gu
 Published: 11/5/2026
 A terrain-based analysis investigating whether walking paths in the FGCU Food Forest have higher relative topographic wetness than raised beds, using 1m LiDAR and the Topographic Wetness Index (TWI).
 
+**[Georeferencing Historical Marine Geology Data: Santa Monica Basin Turbidites](santa-monica-basin.md)**
+Published: 11/22/2026
+A GIS reconstruction of hand-drawn 1990s marine geology maps, demonstrating how modern cartography can clarify complex spatial relationships between flood and seismically triggered turbidites.
+
 ## Portfolio Note
 
 This portfolio is a collection of GIS projects demonstrating my interest in environmental geospatial analysis. I am actively building my skills and looking for internship opportunities where I can contribute to environmental work. 
