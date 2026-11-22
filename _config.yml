@@ -1,30 +1,6 @@
----
----
-@import "{{ site.theme }}";
-
-/* Custom Dark Theme Override */
-body {
-  background-color: #1e1e1e !important; /* Deep dark gray */
-  color: #e0e0e0 !important; /* Off-white, readable text */
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #ffffff !important; /* Pure white headers */
-}
-
-/* Make links stand out as clickable */
-a {
-  color: #4dabf7 !important; /* Bright, readable blue */
-  text-decoration: none;
-}
-
-a:hover {
-  color: #74c0fc !important;
-  text-decoration: underline;
-}
-
-/* Fix code block colors if you ever use them */
-pre, code {
-  background-color: #2d2d2d !important;
-  color: #d4d4d4 !important;
-}
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark
+header_pages: []
