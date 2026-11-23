@@ -12,15 +12,15 @@ Global Multi-Resolution Topography (GMRT) Synthesis (via GeoMapApp)
 Fault Traces (California Geological Survey)
 
 ## Question
-What would this hand-drawn map displaying the areal extant of turbidite deposite in the Santa Monica Basin look like if reconstructed using modern GIS technology?  
+What would this hand-drawn map displaying the areal extent of turbidite deposits in the Santa Monica Basin look like if reconstructed using modern GIS technology?  
 <img src="georeferenced_map.png" alt="Original Hand-drawn Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 <p style="text-align: center;"><em>Original hand-drawn map showing overlapping turbidite distributions (Gorsline, 1996).</em></p>
 
 ## Project Context and Objectives
 
-For a marine geology presentation on turbidites I read a paper titled "Seismically Triggered Turbidites in Small Margin Basins" published in 2000 by Gorsline et al. Seeing this hand-drawn, difficult to read map I became curious how it might look if created today. Turbidites are gravity-slope driven sedimentary deposits formed by turbidity currents, underwater sediment-laden water moving rapidly down continental slop or submarine canyons. 
+For a marine geology presentation on turbidites I read a paper titled "Seismically Triggered Turbidites in Small Margin Basins" published in 2000 by Gorsline et al. Seeing this hand-drawn, difficult to read map I became curious as to how it might look if created today. Turbidites are gravity-slope driven sedimentary deposits formed by turbidity currents, underwater sediment-laden water moving rapidly down continental slope or submarine canyons. 
 
-This paper explained that in the tectonically active Santa Monica Basin, these flows are triggered by both coastal river floods and seismic events that induce submarine slope failure. The objective of this map was to visually communicate the distinct differences between these two triggering events. According to the geochronological data presented in the Gorsline et al. (2000) study, flood-triggered turbidites occur at more frequent rates but are relatively small in volume. Seismically triggered turbidites occur at centennial intervals but are significantly larger. The GIS map was designed to visually separate these two distinct deposits, how they overlap, and where cores were extracted. 
+This paper explained that in the tectonically active Santa Monica Basin, these flows are triggered by both coastal river floods and seismic events that induce submarine slope failure. The objective of this map was to visually communicate the distinct differences between these two triggering events. According to the geochronological data presented in the Gorsline et al. (2000) study, flood-triggered turbidites occur at more frequent rates but are relatively small in volume. Seismically triggered turbidites to ccur at centennial intervals but are significantly larger. The GIS map was designed to visually separate these two distinct deposits, how they overlap, and where cores were extracted. 
 
 ## Methodology and Data Sources
 
@@ -41,6 +41,6 @@ To provide geological context, map layers included a bathymetric basemap with hi
 
 Gorsline, D.S., De Diego, T., and Nava-Sanchez, E.H. (2000). Seismically triggered turbidites in small margin basins: Alfonso Basin, Western Gulf of California and Santa Monica Basin, California Borderland. *Sedimentary Geology*, 135(1–4), 21–35.
 
-Ryan, W. B. F., Carbotte, S. M., Coplan, J. O., O'Hara, S., Melkonian, A., Arko, R., Weissel, R. A., Ferrini, V., Goodwillie, A., Nitsche, F., Bonczkowski, J., & Zemsky, R. (2009). Global Multi-Resolution Topography synthesis. Geochemistry, Geophysics, Geosystems, 10(3), Q03014. doi.org
+Ryan, W. B. F., Carbotte, S. M., Coplan, J. O., O'Hara, S., Melkonian, A., Arko, R., Weissel, R. A., Ferrini, V., Goodwillie, A., Nitsche, F., Bonczkowski, J., & Zemsky, R. (2009). Global Multi-Resolution Topography synthesis. Geochemistry, Geophysics, Geosystems, 10(3), Q03014.
 
 Jennings, C. W., & Bryant, W. A. (2010). Fault Activity Map of California (Geologic Data Map No. 6, Version 2.0, scale 1:750,000) [Dataset]. California Geological Survey, California Department of Conservation. https://maps.conservation.ca.gov/cgs/fam/
