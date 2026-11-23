@@ -13,6 +13,9 @@ What would this hand-drawn map displaying the areal extant of turbidite deposite
 <img src="georeferenced_map.png" alt="Original Hand-drawn Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 <p style="text-align: center;"><em>Original hand-drawn map showing overlapping turbidite distributions (Gorsline, 1996).</em></p>
 
+<img src="sm_basin_turbidites.png" alt="Modernized GIS Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<p style="text-align: center;"><em>The modernized GIS map, featuring cartographic generalization, hillshade, and fault traces to clearly visually separate flood versus seismic deposits.</em></p>  
+
 ## Project Context and Objectives
 
 For a marine geology presentation on turbidites I read a paper titled "Seismically Triggered Turbidites in Small Margin Basins" published in 2000 by Gorsline et al. Seeing this hand-drawn, difficult to read map I became curious how it might look if created today. Turbidites are gravity-slope driven sedimentary deposits formed by turbidity currents, underwater sediment-laden water moving rapidly down continental slop or submarine canyons. 
@@ -29,9 +32,6 @@ The most significant challenge I encountered was digitizing polygons to accurate
 <p style="text-align: center;"><em>The data table used to categorize the turbidites by volume, area, and trigger type.</em></p>
 
 By cross-referencing the spatial extents with Table 1 from the research paper, which details the age, area, volume, and trigger type of each deposit, I generalized the complex overlapping lines into two distinct, readable zones. These zones represent broad areas of Flood Turbidites (outlined in blue) and Seismic Turbidites (represented by a grey polygon). This choice prioritizes the communication of the geological trigger mechanism over the precise, overlapping boundaries of individual historical events, making the data accessible to a broader audience.
-
-<img src="sm_basin_turbidites.png" alt="Modernized GIS Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-<p style="text-align: center;"><em>The modernized GIS map, featuring cartographic generalization, hillshade, and fault traces to clearly delineate flood versus seismic deposits.</em></p>
 
 ## Cartographic Choices
 
