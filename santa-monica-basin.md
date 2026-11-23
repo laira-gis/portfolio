@@ -1,7 +1,8 @@
 #  Georeferencing Historical Marine Map: Santa Monica Basin Turbidites
 Published: 11/22/2026
 
-<img src="sm_basin_turbidites.png" alt="Modernized GIS Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<img src="sm_basin_turbidites.png" alt="Modernized GIS Map" style="max-width: 100%; height: auto; display: block; margin: 0 autohand
+
 <p style="text-align: center;"><em>The modernized GIS map, featuring cartographic generalization, hillshade, and fault traces to clearly visually separate flood versus seismic deposits.</em></p>  
 
 ## Tools
@@ -12,9 +13,9 @@ Global Multi-Resolution Topography (GMRT) Synthesis (via GeoMapApp)
 Fault Traces (California Geological Survey)
 
 ## Question
-What would this hand-drawn map displaying the areal extent of turbidite deposits in the Santa Monica Basin look like if reconstructed using modern GIS technology?  
+What would this original schematic map displaying the areal extent of turbidite deposits in the Santa Monica Basin look like if reconstructed using modern GIS technology?  
 <img src="georeferenced_map.png" alt="Original Hand-drawn Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-<p style="text-align: center;"><em>Original hand-drawn map showing overlapping turbidite distributions (Gorsline, 1996).</em></p>
+<p style="text-align: center;"><em>Original schematic map showing overlapping turbidite distributions (Gorsline, 1996).</em></p>
 
 ## Project Context and Objectives
 
