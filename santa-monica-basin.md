@@ -12,7 +12,7 @@ Global Multi-Resolution Topography (GMRT) Synthesis (via GeoMapApp)
 Fault Traces (California Geological Survey)
 
 ## Question
-What would this original schematic map displaying the areal extent of turbidite deposits in the Santa Monica Basin look like if reconstructed using modern GIS technology?  
+What would this 1990s map displaying the areal extent of turbidite deposits in the Santa Monica Basin look like if reconstructed using modern GIS technology?  
 <img src="georeferenced_map.png" alt="Original Hand-drawn Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 <p style="text-align: center;"><em>Original schematic map showing overlapping turbidite distributions (Gorsline, 1996).</em></p>
 
