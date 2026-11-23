@@ -3,7 +3,7 @@ Junior Environmental Geology Student at Florida Gulf Coast University.
 
 ### About
 
-As an Environmental Geology student, I use GIS not just to visualize data, but to better understand earth processes and solve spatial problems. I am currently seeking internship opportunities where I can apply an analytical approach  to geological and environmental challenges.
+As an environmental geology student, I use GIS not just to visualize data, but to better understand earth processes and solve spatial problems. I am currently seeking internship opportunities where I can apply an analytical approach  to geological and environmental challenges.
 
 ## Featured Projects
 
