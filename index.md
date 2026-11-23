@@ -23,6 +23,5 @@ Published: 11/22/2026 Extracted and georeferenced core locations from hisitoric 
 
 ## Contact
 
-Lale Califano
-Email: tcalifano8127@eagle.fgcu.edu  
-GitHub: https://laira-gis.github.io/portfolio/
+Lale Califano |
+Email: tcalifano8127@eagle.fgcu.edu   | GitHub: https://laira-gis.github.io/portfolio/
