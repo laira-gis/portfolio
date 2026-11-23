@@ -1,4 +1,4 @@
-# Georegistration of Historical Marine Map: Santa Monica Basin Turbidites
+#  Georeferencing Historical Marine Map: Santa Monica Basin Turbidites
 Published: 11/22/2026
 
 <img src="sm_basin_turbidites.png" alt="Modernized GIS Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
