@@ -1,3 +1,5 @@
+### About
+
 Welcome to my GIS portfolio! I am an Environmental Geology student at Florida Gulf Coast University. This portfolio presents independent GIS projects with interests in hydrologic, terrain, and risk analysis.
 
 ## Featured Projects
