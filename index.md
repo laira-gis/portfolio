@@ -1,6 +1,6 @@
 ### About
 
-Welcome to my GIS portfolio! I am an Environmental Geology student at Florida Gulf Coast University. This portfolio presents independent GIS projects with interests in hydrologic, terrain, and risk analysis.
+As an Environmental Geology student, I use GIS not just to visualize data, but to better understand earth processes and solve spatial problems. I am currently seeking internship opportunities where I can apply an analytical approach  to geological and environmental challenges.
 
 ## Featured Projects
 
@@ -13,13 +13,9 @@ Published: 11/22/2026 Extracted and georeferenced core locations from hisitoric 
 
 
 
-## Portfolio Note
-
-This portfolio is a collection of GIS projects demonstrating my interest in environmental geospatial analysis. I am actively building my skills and looking for internship opportunities where I can contribute to environmental work. 
-
 ### Relevant Coursework
 
-* Introductory ArcGIS
+* Environmental GIS (ArcGIS)
 * Hydrogeology
 * Introductory Hydrology
 * Soil and Water Science
