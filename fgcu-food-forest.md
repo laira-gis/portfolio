@@ -52,3 +52,9 @@ While the TWI map successfully identified generally saturated zones, the results
 
 **Application**  
 This type of limited, terrain-only analysis serves as a preliminary visual tool to understand how small site features, like footpaths or raised beds, might influence surface drainage and wetness patterns. 
+
+### References
+
+U.S. Geological Survey. (2024). 3D Elevation Program 1-Meter Resolution Digital Elevation Model [Bare-earth DEM dataset]. Accessed via USGS 3D Elevation Program.   
+
+Kopecký, Martin, et al. "Topographic Wetness Index Calculation Guidelines Based on Measured Soil Moisture and Plant Species Composition." Science of The Total Environment, vol. 757, 25 Feb. 2021, article 143785, https://doi.org/10.1016/j.scitotenv.2020.143785.  
