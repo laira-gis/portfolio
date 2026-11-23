@@ -9,7 +9,7 @@ Published: 11/5/2026
 A terrain-based wetness analysis of the FGCU Food Forest, using 1m LiDAR, Topographic Wetness Index (TWI), and field validation. 
 
 **[Georeferencing Historical Marine Map Data: Santa Monica Basin Turbidites](santa-monica-basin.md)**
-Published: 11/22/2026 Extracted and georeferenced core locations from hisitoric marine data as an exercise in digitizing hand-drawn maps.
+Published: 11/22/2026 Extracted and georeferenced core locations from hisitorical marine data.
 
 
 
