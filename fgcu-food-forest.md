@@ -12,7 +12,7 @@ USGS 3D Elevation Program (3DEP) 1 m bare-earth DEM.
 
 ### Soil Data & Limitations
 SSURGO data mapped the site as a single Hydrologic Soil Group unit at the map scale. The soil is classified as Hydrologic Soil Group A/B, meaning it behaves as group A (high infiltration and low runoff) where undisturbed and group B (moderate infiltration and runoff) where altered. 
-For this phase of the project, I focused strictly on terrain-based analysis. A more extensive evaluation of infiltration potential would require integrating detailed soil data such as bulk density and hydraulic conductivity.
+For this project, I focused strictly on terrain-based analysis. A more extensive evaluation of infiltration potential would require integrating detailed soil data such as bulk density and hydraulic conductivity.
 
 ### Site Design & Procedure
 The FGCU Food Forest was established in 2013 using permaculture design principles. I became interested in this site after observing that the food forest sits at a higher elevation than its immediate surroundings and is bounded by a subsurface  drainage system and retention basins.
