@@ -18,7 +18,7 @@ What would this original schematic map displaying the areal extent of turbidite 
 
 ## Project Context and Objectives
 
-For a marine geology presentation on turbidites I read a paper titled "Seismically Triggered Turbidites in Small Margin Basins" published in 2000 by Gorsline et al. Seeing this hand-drawn, difficult to read map I became curious as to how it might look if created today. Turbidites are gravity-slope driven sedimentary deposits formed by turbidity currents, underwater sediment-laden water moving rapidly down continental slope or submarine canyons. 
+For a marine geology presentation on turbidites I read a paper titled "Seismically Triggered Turbidites in Small Margin Basins" published in 2000 by Gorsline et al. Seeing this manually drafter, difficult to read map I became curious as to how it might look if created today. Turbidites are gravity-slope driven sedimentary deposits formed by turbidity currents, underwater sediment-laden water moving rapidly down continental slope or submarine canyons. 
 
 This paper explained that in the tectonically active Santa Monica Basin, these flows are triggered by both coastal river floods and seismic events that induce submarine slope failure. The objective of this map was to visually communicate the distinct differences between these two triggering events. According to the geochronological data presented in the Gorsline et al. (2000) study, flood-triggered turbidites occur at more frequent rates but are relatively small in volume. Seismically triggered turbidites to occur at centennial intervals but are significantly larger. The GIS map was designed to visually separate these two distinct deposits, how they overlap, and where cores were extracted. 
 
