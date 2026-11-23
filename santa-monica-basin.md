@@ -29,9 +29,9 @@ To digitize a low-resolution, 1990s map the first step was georeferencing the or
 The most significant challenge I encountered was digitizing polygons to accurately cover the turbidite boundaries. The original 1996 map utilized overlapping dashed and dotted lines to represent multiple depositional events, which made the figure difficult to interpret. Attempting to precisely trace the overlapping lines resulted in an unreadable map. For this reason, I chose the method of cartographic generalization to present spatial extent, age and trigger types into readable zones. 
 
 <img src="sm_basin_data_table.png" alt="Data Table" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-<p style="text-align: center;"><em>The data table used to categorize the turbidites by volume, area, and trigger type.</em></p>
+<p style="text-align: center;"><em>The data table used to categorize the turbidites by age, area, and trigger type.</em></p>
 
-By cross-referencing the spatial extents with Table 1 from the research paper, which details the age, area, volume, and trigger type of each deposit, I generalized the complex overlapping lines into two distinct, readable zones. These zones represent broad areas of Flood Turbidites (outlined in blue) and Seismic Turbidites (represented by a light red polygon). This choice prioritizes the communication of the geological trigger mechanism over the precise, overlapping boundaries of individual historical events, making the data accessible to a broader audience.
+By cross-referencing the spatial extents with Table 1 from the research paper, which details the age, area, and trigger type of each deposit, I generalized the complex overlapping lines into two distinct, readable zones. These zones represent broad areas of Flood Turbidites (outlined in blue) and Seismic Turbidites (represented by a light red polygon). This choice prioritizes the communication of the geological trigger mechanism over the precise, overlapping boundaries of individual historical events, making the data accessible to a broader audience.
 
 ## Cartographic Choices
 
