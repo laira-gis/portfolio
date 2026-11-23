@@ -1,7 +1,6 @@
-###  Lale Califano Environmental GIS Portfolio
-Junior Environmental Geology Student at Florida Gulf Coast University. 
+### Lale Califano Environmental GIS Portfolio
 
-As an environmental geology student, I use GIS not just to visualize data, but to better understand earth processes and solve spatial problems. I am currently seeking internship opportunities where I can apply an analytical approach  to geological and environmental challenges.
+As an environmental geology student, I use GIS not just to visualize data, but to **analyze earth processes and solve spatial problems**.  I am currently seeking internship opportunities where I can apply an analytical approach  to geological and environmental challenges.
 
 ## Featured Projects
 
@@ -24,6 +23,7 @@ Published: 11/22/2026 Extracted and georeferenced core locations from hisitoric 
 
 ## Contact
 
-**Lale Califano**  
+**Lale Califano**  |  Junior Environmental Geology Student at Florida Gulf Coast University    
 Email:  tcalifano8127@eagle.fgcu.edu    
-GitHub:  https://laira-gis.github.io/portfolio/
+GitHub:  https://laira-gis.github.io/portfolio/  
+
