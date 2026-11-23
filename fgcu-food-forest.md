@@ -1,9 +1,6 @@
 ### Terrain-Based Wetness Analysis Using 1 m LiDAR: FGCU Food Forest
 Published: 11/5/2026
 
-<img src="site_map_forest.png" alt="FGCU Food Forest Location Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-<p style="text-align: center;"><em>Location map of the FGCU Food Forest. Basemap: Google.</em></p>
-
 ### Tools
 QGIS; SAGA/GRASS.
 
@@ -19,6 +16,9 @@ For this phase of the project, I focused strictly on terrain-based analysis. A m
 
 ### Site Design & Procedure
 The FGCU Food Forest was established in 2013 using permaculture design principles. I became interested in this site after observing that the food forest sits at a higher elevation than its immediate surroundings and is bounded by a subsurface  drainage system and retention basins.
+
+<img src="site_map_forest.png" alt="FGCU Food Forest Location Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<p style="text-align: center;"><em>Location map of the FGCU Food Forest. Basemap: Google.</em></p>
 
 <img src="drain_example.jpg" alt="FGCU Food Forest Drainage Context" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 <p style="text-align: center;"><em>Image showing an example of the French drainage systems surrounding the site.</em></p>
