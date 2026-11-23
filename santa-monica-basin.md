@@ -1,9 +1,8 @@
 #  Georeferencing Historical Marine Map: Santa Monica Basin Turbidites
 Published: 11/22/2026
 
-<img src="sm_basin_turbidites.png" alt="Modernized GIS Map" style="max-width: 100%; height: auto; display: block; margin: 0 autohand
-
-<p style="text-align: center;"><em>The modernized GIS map, featuring cartographic generalization, hillshade, and fault traces to clearly visually separate flood versus seismic deposits.</em></p>  
+<img src="sm_basin_turbidites.png" alt="Modernized GIS Map" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<p style="text-align: center;"><em>The modernized GIS map, featuring cartographic generalization, hillshade, and fault traces to clearly delineate flood versus seismic deposits.</em></p>
 
 ## Tools
 GeoMapApp; QGIS. 
